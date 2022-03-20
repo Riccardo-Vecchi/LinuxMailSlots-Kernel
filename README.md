@@ -9,7 +9,6 @@
 </p>
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#building">Building</a> •
   <a href="#usage">Usage</a> •
   <a href="#license-gpl-v2">License</a>
 </p>
